@@ -3,7 +3,7 @@
 
 ### Funciones disponibles
 
-- ### **add_product()**
+- **add_product()**
 - **update_product()**
 - **search_product()**
 - **change_quantity()**
